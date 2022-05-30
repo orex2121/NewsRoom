@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="resurs">https://newsapi.org</string>
+    <string name="url">https://newsapi.org/v2/top-headlines?country=ru&apiKey=ecadb70d989043508cfbea7363e10a77</string>
+    <string name="api">ecadb70d989043508cfbea7363e10a77</string>
+</resources>
